@@ -1,27 +1,12 @@
 ## Olá, eu sou o Luiz 👋
 
-  Cursando Desenvolvimento de Sistemas <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" wight="40"/>
-
-  
-  
-  Estudando <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" wight="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" wight="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" wight="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40" wight="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" wight="40"/>
-  
-  
-  
-  
-  Ferramentas <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" wight="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" wight="40"/>
+## Bem vindo ao meu GitHub.
+<p> Meu nome é Luiz Ricardo, e atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela CEDERJ. </br> 
+Atualmente tenho trabalhado em pequenos projetos pessoais e projetos acadêmicos </p>
   
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizrdsx&layout=compact&langs_count=7&theme=dracula" width="300"/>
 </div>
   
-  
+![Snake animation](https://github.com/Luizrdsx/Luizrdsx/blob/output/github-contribution-grid-snake.svg)
