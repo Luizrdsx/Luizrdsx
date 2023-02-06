@@ -1,7 +1,7 @@
 name: Generate Datas
 
 on:
-  schedule: # Executa a cada 12h
+  schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
 
@@ -10,7 +10,7 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Animação da cobrinha
+      # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
