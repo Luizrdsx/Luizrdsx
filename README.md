@@ -20,3 +20,5 @@ Atualmente tenho trabalhado em pequenos projetos pessoais e projetos acadêmicos
 <a href="https://github.com/Luizrdsx">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizrdsx&layout=compact&langs_count=7&theme=tokyonight" width="300"/>
 </div>
+
+![Snake animation](https://github.com/Luizrdsx/Luizrdsx/blob/output/github-contribution-grid-snake.svg)
