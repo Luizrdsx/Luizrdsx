@@ -1,5 +1,5 @@
 ## Bem vindo ao meu GitHub 👋.
-<p> Meu nome é Luiz Ricardo, e atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela CEDERJ. </br> 
+<p> Meu nome é Luiz Ricardo, estudante de Análise e Desenvolvimento de Sistemas pela CEDERJ. </br> 
 Atualmente tenho trabalhado em pequenos projetos pessoais e projetos acadêmicos </p>
 
 
